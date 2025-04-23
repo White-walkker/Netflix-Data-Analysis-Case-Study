@@ -1,3 +1,6 @@
+## Project Link
+https://colab.research.google.com/drive/1pjL35wjDqa26iTVKr0dej_muR_apKY2P?usp=sharing
+
 ## Overview
 This repository contains a comprehensive exploratory data analysis of Netflix's content library. The analysis examines various aspects of Netflix's catalog, including the distribution of movies vs. TV shows, content growth trends, genre popularity, and production patterns across different countries.
 
