@@ -1,5 +1,3 @@
-##Netflix Data Analysis Case Study
-
 ## Overview
 This repository contains a comprehensive exploratory data analysis of Netflix's content library. The analysis examines various aspects of Netflix's catalog, including the distribution of movies vs. TV shows, content growth trends, genre popularity, and production patterns across different countries.
 
